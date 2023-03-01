@@ -1,0 +1,23 @@
+.backery{
+position: absolute;
+right: 200px;
+}
+body{ background-color: blueviolet;
+    position: absolute ;
+    right: 600px;}
+    
+.backery1{
+    position: absolute;
+  
+}
+.backery2{
+    position: absolute;
+    left: 400px;
+    nav-up: 500px;
+}
+.total{
+    position: absolute ;
+}
+.color{
+   color: rgb(255, 13, 13);
+}
